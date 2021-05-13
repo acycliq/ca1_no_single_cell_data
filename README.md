@@ -1,4 +1,4 @@
-# septal_ellipsoids
+# ca1_ellipsoids
 
 https://acycliq.github.io/ca1_no_single_cell_data/
 
