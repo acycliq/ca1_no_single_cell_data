@@ -288,7 +288,7 @@ function aggregate(data) {
         for (var i = 0; i < data.length; ++i) {
             var temp = [];
             for (var j = 0; j < data[i].ClassName.length; ++j) {
-                // console.log(data[i].ClassName[j])
+                console.log(data[i].ClassName[j])
                 temp.push({
                     IdentifiedType: cellColorMap.get(data[i].ClassName[j]).IdentifiedType,
                     color: cellColorMap.get(data[i].ClassName[j]).color,
