@@ -77,7 +77,7 @@ function classColorsCodes()
         {className: 'label_64', IdentifiedType: 'label_64', color: '#FFFFFF'},
         {className: 'label_65', IdentifiedType: 'label_65', color: '#FFFFFF'},
         {className: 'label_66', IdentifiedType: 'label_66', color: '#FFFFFF'},
-        {className: 'label_67', IdentifiedType: 'label_67', color: '#FFFFFF'},
+        {className: 'label_67', IdentifiedType: 'label_67', color: '#00FF00'},
         {className: 'label_68', IdentifiedType: 'label_68', color: '#b1fff8'},
         {className: 'label_70', IdentifiedType: 'label_70', color: '#FFFFFF'},
         {className: 'label_71', IdentifiedType: 'label_71', color: '#FFFFFF'},
