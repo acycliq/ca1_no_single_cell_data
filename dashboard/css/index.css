@@ -121,6 +121,13 @@ td {
 }
 
 
+/*!* I ADDED THIS> TO BE REMOVED*!*/
+/*.leaflet-left .leaflet-control {*/
+/*	margin-left: 10px;*/
+/*	margin-bottom: 40px;*/
+/*	}*/
+
+
 /*Info popup control settings*/
 .info {
     padding: 6px 8px;
